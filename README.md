@@ -20,7 +20,6 @@
 | 轻量化检测 | [astar2019](CV/astar2019) | 百度之星轻量化检测比赛评测工具。 | - |
 | 地标检索与识别 | [landmark](CV/landmark) | 基于检索的地标检索与识别系统，支持地标型与非地标型识别、识别与检索结果相结合的多重识别结果投票和重新排序。 | https://arxiv.org/abs/1906.03990 |
 | 图像分类 | [webvision2018](CV/webvision2018) | 模型利用重加权网络(URNet)缓解web数据中偏倚和噪声的影响，进行web图像分类。 | https://arxiv.org/abs/1811.00700 |
-| 数据扩增 | [CWRGC&CWRVA](CV/robust_vessel_segmentation) | 两种用于提升眼底图像分析模型鲁棒性的新型数据扩增方法，代码中以血管分割任务作为验证场景。 | - |
 
 ## 自然语言处理
 | 任务类型     | 目录                                                         | 简介                                                         | 论文链接 |
